@@ -2,6 +2,14 @@ pandas
 numpy
 openpyxl
 
+holidays
+statsmodels
+
 matplotlib
 seaborn
 plotly
+
+scikit-learn
+torch
+scipy
+xgboost
