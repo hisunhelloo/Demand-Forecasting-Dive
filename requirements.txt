@@ -10,6 +10,13 @@ seaborn
 plotly
 
 scikit-learn
+tqdm
 torch
 scipy
 xgboost
+lightgbm
+catboost
+transformers
+
+bitsandbytes
+accelerate

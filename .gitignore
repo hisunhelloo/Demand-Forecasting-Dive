@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project Specific
+catboost_info/
+.claude/
+.gemini/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data Files
+# Currently these are all under 100MB so they can be uploaded to GitHub.
+# If you want to stop tracking them later, uncomment the lines below:
+# raw_data/
+# processed_data/
+# *.csv
+# *.xlsx
